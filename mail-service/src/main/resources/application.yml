@@ -1,0 +1,7 @@
+spring:
+  kafka:
+    brokers: localhost:59092
+  application:
+    name: mail-service
+server:
+  port: 8098
